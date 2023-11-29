@@ -16,3 +16,5 @@ flex count_vowels_consonants.l
 gcc lex.yy.c -o count_vowels_consonants -lfl
 ./count_vowels_consonants
 ```
+
+Press Ctrl + D
